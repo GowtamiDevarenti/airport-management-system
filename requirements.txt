@@ -1,0 +1,5 @@
+# Airport Departure Management System - Lab 3
+# ==========================================================
+# No external third-party packages or dependencies are required.
+# This project uses strictly Python 3 standard library built-ins.
+# Compatible with Python 3.8+
